@@ -24,7 +24,7 @@ After running the script you will see a message like this:
  You can now view your Streamlit app in your browser.
 
   Local URL: http://localhost:4000
-  Network URL: http://27.1.212.23:4000
+  Network URL: http://xx.xx.xx.xx:4000
 ```
 
 Anyone on the network, even with mobile phone, can view the app by accessing the network URL!

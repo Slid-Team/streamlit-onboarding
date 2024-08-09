@@ -4,6 +4,7 @@ Sample script to learn streamlit
 
 import streamlit as st
 
+
 def main():
     """
     Maim function
@@ -20,8 +21,6 @@ def main():
         Select a page from the sidebar to see other pages.
         """
     )
-
-    
 
 
 if __name__ == "__main__":
