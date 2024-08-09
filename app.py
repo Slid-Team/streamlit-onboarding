@@ -9,9 +9,9 @@ def main():
     Maim function
     """
 
-    st.set_page_config(page_title="Multipage App", page_icon="👋")
+    st.set_page_config(page_title="Bebridge AI", page_icon="👋")
 
-    st.title("Bebridge Streamlit Onboarding Sample App")
+    st.title("Bebridge AI Streamlit Onboarding")
     st.sidebar.success("Select a page above.")
 
     st.markdown(
