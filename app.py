@@ -11,7 +11,7 @@ def main():
 
     st.set_page_config(page_title="Multipage App", page_icon="👋")
 
-    st.title("Main Page")
+    st.title("Bebridge Streamlit Onboarding Sample App")
     st.sidebar.success("Select a page above.")
 
     st.markdown(
